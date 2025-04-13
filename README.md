@@ -12,4 +12,4 @@ E também que possue os seguintes programas baixados e adicionados ao PATH:
 - [Poppler](https://github.com/oschwartz10612/poppler-windows/releases)
 
 Como rodar:
-Substitua o nome do arquivo da linha 12 para o nome do seu arquivo pdf e execute o código.
+- Substitua o nome do arquivo da linha 12 para o nome do seu arquivo pdf e execute o código.

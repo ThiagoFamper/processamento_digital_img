@@ -5,7 +5,7 @@ Este código realiza o seguinte processo:
 4. Salva o texto corrigido em um arquivo txt.
 
 Antes de rodar certifique-se de instalar as bibliotecas:
-pip install pytesseract pdf2image pillow spellchecker
+- pip install pytesseract pdf2image pillow spellchecker
 
 E também que possue os seguintes programas baixados e adicionados ao PATH:
 - [Tesseract](https://github.com/tesseract-ocr/tesseract/releases)
